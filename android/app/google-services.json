@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "14550337107",
+    "firebase_url": "https://moksha-beta.firebaseio.com",
+    "project_id": "moksha-beta",
+    "storage_bucket": "moksha-beta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14550337107:android:e72f9de6afaefda051a8a6",
+        "android_client_info": {
+          "package_name": "moksha.beta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14550337107-49qedin1cp5jnqddn6q8m1s9esu99lhb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpnY8ZhXgbwBL2bWOMhQOI-gsDO5vKx_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14550337107-49qedin1cp5jnqddn6q8m1s9esu99lhb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "14550337107-e1pdlefu7v95pu61cotrt4bhcj50g8ud.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "moksha.beta"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
